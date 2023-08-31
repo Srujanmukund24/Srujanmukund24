@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full Stack Project.**
 
-- 🌱 I’m currently learning **Next.Js and Backend Web Developement**
+- 🌱 I’m currently learning **Backend Web Developement**
 
 - 📫 How to reach me **srujanmukund10@gmail.com**
 
